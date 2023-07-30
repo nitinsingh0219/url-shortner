@@ -1,4 +1,4 @@
-# URL-Shortener-GUI
+# URL Shortener by Nitin Singh
 ![](https://visitor-badge.glitch.me/badge?page_id=insanecodes.URL-Shortener-GUI)
 
 A URL Shortener GUI Made Using Python 
